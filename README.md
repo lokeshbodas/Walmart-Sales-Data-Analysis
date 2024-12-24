@@ -8,8 +8,7 @@ This project contains SQL scripts for analyzing Walmart sales data. The analysis
   - `Feature Engineering till time_of_day.sql`: Contains SQL script for feature engineering, including adding the `time_of_day` column.
 - `data/`
   - `sales_data.csv`: Contains the sales data in CSV format.
-- `docs/`
-  - `Sales Data Analysis.pdf`: Contains the sales data analysis report in PDF format.
+- `Sales Data Analysis.pdf`: Contains the sales data analysis report in PDF format.
 
 ## Instructions to Run the SQL Scripts
 
