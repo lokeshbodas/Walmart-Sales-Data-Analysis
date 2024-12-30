@@ -251,13 +251,3 @@ SELECT
 FROM sales
 GROUP BY customer_type
 ORDER BY total_tax;
-
--- Instructions to run the SQL code:
--- 1. Open your SQL client or database management tool (e.g., MySQL Workbench, pgAdmin, etc.).
--- 2. Connect to your database server.
--- 3. Create a new database or use an existing one.
--- 4. Open a new SQL query window.
--- 5. Copy and paste the entire content of this file into the query window.
--- 6. Execute the script to create the table and run the queries.
-
--- Note: Ensure you have the necessary permissions to create tables and execute queries on the database.
